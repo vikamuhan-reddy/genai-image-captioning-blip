@@ -71,6 +71,8 @@ gr.close_all()
 ```
 
 ### OUTPUT:
+![image](./Screen%20Shot%201947-02-27%20at%2011.19.48.png)
+
 
 ### RESULT:
 A functional image captioning prototype using the BLIP model was developed, generating accurate captions for uploaded images. The Gradio interface enabled interactive testing, showcasing strong performance and potential for future enhancements.
